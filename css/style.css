@@ -238,7 +238,7 @@ html{
 
 
 
-@media only screen and (max-width:1140px){
+/* @media only screen and (max-width:1140px){
     .nav-list{
         flex-direction: column;
     }
@@ -281,4 +281,4 @@ html{
     .paras{
         padding: 0px;
     }
-}
+} */
